@@ -1,0 +1,6 @@
+this is version 1 of my project
+i want this to go into commit(master)
+changed by harry
+this is changed now
+jokdjfkjklj
+this is from master
